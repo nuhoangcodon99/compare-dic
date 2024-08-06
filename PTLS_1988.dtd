@@ -1,0 +1,134 @@
+<!ELEMENT PLimprimé (comprare_article)* >
+
+<!--article-->
+    <!ELEMENT comprare_article (article)* >
+    <!ATTLIST  comprare_article class (encyclopedique|marque|beaucoup-De-modification|ajouter-cate|phonetique-et-ajoute-numero|nouveau_article) #IMPLIED>
+    <!ELEMENT article (ordonnateur_homographe?,zone_d_identification_etymologique, zone_de_traitement, zone_iconographie?)>
+         <!ATTLIST article compare_avec_PL_1980 (nouveau-article|supprime | ajoute | modifie |  separer_a_partir_d_autre_article) #IMPLIED>
+<!--quand il y a des mots même orthographes, mais ils ont des sens et des catégories différentes, dans PL 1988, il ajoute ordonnateur homographe pour séparer les sens-->
+
+        <!ELEMENT ordonnateur_homographe (#PCDATA)>
+        	   <!ATTLIST ordonnateur_homographe compare_avec_PL_1980 (ajoute_numero) #IMPLIED>
+	   
+	   <!--zone_d_identification_etymologique: pour indiquer l'item en adresse, phonétique?, catégorie grammaticale-->
+	   
+    	<!ELEMENT zone_d_identification_etymologique (composant_d_adressage | composant_transcription_phonetique? | composant_de_categorisation | composant_morphologique? |  composant_d_etymologie?)*> 
+
+            <!--composant_d_adressage où on présente la graphique d'un mot, il y a certains item d'adresse qui nous donne des formes féminin-->
+      		<!ELEMENT composant_d_adressage (unite_d_adressage |  (unite_d_adressage,unite_transcription_phonetique?,coordination, unite_d_adressage_coordonnee)?)> <!--on trouve la transcription phonetique entre deux item en adresse, c'est dans le cas de drop-goal-->
+                  <!ELEMENT unite_d_adressage (item_en_adresse, separateur?, finale_flexionnelle?)>
+                		<!ELEMENT item_en_adresse (#PCDATA)>
+                		<!ELEMENT separateur (#PCDATA)>
+                        <!ELEMENT finale_flexionnelle (#PCDATA) >
+                             <!ATTLIST finale_flexionnelle genre (masculin | féminin) #REQUIRED >
+                             <!ATTLIST finale_flexionnelle nombre (singulier | pluriel) #REQUIRED >
+                  <!ELEMENT unite_d_adressage_coordonnee (item_en_adresse, separateur?, finale_flexionnelle?)>           
+              <!--composant_transcription_phonetique où on présente la transcription phonétique soit pour des mots qui ont plusieurs manière de présentation; soit pour des mots qui ont difficile à modifier-->               
+             <!ELEMENT composant_transcription_phonetique (unite_transcription_phonetique, (coordination,unite_transcription_phonetique_coordonnee)?)>
+                   <!ATTLIST composant_transcription_phonetique compare_phonetique (modifie_presentation_phonetique) #IMPLIED> <!--ajouter une coordination et séparer deux transcription dans des [] différentes-->
+                    <!ELEMENT unite_transcription_phonetique (delimitateur_initial| transcription_phonetique| delimitateur_final|coordination)*>
+                        <!ELEMENT delimitateur_initial (#PCDATA)>
+                        <!ELEMENT transcription_phonetique (#PCDATA)>
+                        <!ELEMENT delimitateur_final (#PCDATA) >
+                    <!ELEMENT coordination (#PCDATA)>
+                    <!ELEMENT unite_transcription_phonetique_coordonnee (delimitateur_initial, transcription_phonetique, delimitateur_final)>
+
+            <!--composant_d_categorisation où on pourrait voir la catégorie grammaticale d'un item en adresse. Dan le PL 1988, nous avons des mots qui peuvent ajouter des catégories grammaticale ou des mots que des catégories grammticales a été surprimées-->
+            <!ELEMENT composant_de_categorisation (categorisation, (coordination, categorisation_coordonnee)?) >
+                <!ATTLIST composant_de_categorisation compare_cate (supprime_categorie_grammaticale | ajoute_categorie_grammaticale | modifie_categorie_grammaticale) #IMPLIED>
+			     <!ELEMENT categorisation (categorie, (genre | rection)?)>
+				<!ELEMENT categorie (#PCDATA)>
+				<!ELEMENT genre (#PCDATA) >
+				<!ELEMENT rection (#PCDATA)>
+			<!ELEMENT categorisation_coordonnee (categorie?, (genre | rection)?) >
+			        <!ATTLIST categorisation_coordonnee compare_cate_coordonnee (supprime_categorie_grammaticale | ajoute_categorie_grammaticale | modifie_categorie_grammaticale) #IMPLIED>
+			   
+			   <!--composant_morphologique, ici c'est la forme pluriel d'un mot-->
+	   <!ELEMENT composant_morphologique (delimitateur_initial | introducteur_pluriel | graphie_pluriel |delimitateur_final |item_est_une_forme_pluriel)*>
+				<!ELEMENT introducteur_pluriel (#PCDATA)>
+				<!ELEMENT graphie_pluriel (#PCDATA)>
+				<!ELEMENT item_est_une_forme_pluriel (#PCDATA)>
+			
+		<!--composant_d_etymologie-->
+<!--		  <!ELEMENT composant_etymologique (composant_d_etymologie, ((separateur),composant_d_etymologie)?)>-->	
+<!ELEMENT composant_d_etymologie (etymologie, (conjonction, etymologie)?)>
+		              <!ATTLIST composant_d_etymologie compare_etymologie (supprime_etymologie | ajoute_etymologie | modifie_etymologie) #IMPLIED>
+				<!ELEMENT etymologie (delimitateur_initial |operateur_de_provenance | introducteur_etymologie |etymon_langue | etymon | separateur | etymon_glose|delimitateur_final|etymon_categorie)*>
+    				<!ELEMENT operateur_de_provenance (#PCDATA)> <!-- « de » -->
+    				<!ELEMENT introducteur_etymologie (#PCDATA)>  
+    				<!ELEMENT etymon_langue (#PCDATA)>
+    				<!ELEMENT etymon (#PCDATA)>
+                    <!ELEMENT etymon_glose (#PCDATA)>
+                    <!ELEMENT etymon_categorie (#PCDATA)>
+                    
+              <!-- zone_de_traitement-->         
+        <!ELEMENT zone_de_traitement (Unite_traitement_de_item_monolexical | Bloc_des_traitements_de_item_polylexical |Bloc_locution|Unite_item_recategorise |UT_renvoi|relation_morphologique)+>
+        
+            <!ELEMENT Unite_traitement_de_item_monolexical (subdivision_nuance_sens | niveau_langue| marque_usage| marque_domaniale |marque_semantique |introducteur_marque_diaphasique?| marque_diaphasique |marque_diachronique | definition | composant_de_renvoi | contextualisation |separateur | UT_locution |composant_encyclopedie |composant_synonyme|information_morphologique)*>                      
+                        
+                        <!ELEMENT niveau_langue (#PCDATA)>
+                        <!ELEMENT marque_usage (#PCDATA)>
+			            <!ELEMENT marque_domaniale (#PCDATA)>
+			             <!ATTLIST marque_domaniale marque_domaniale_compare (supprime_marque_domaniale | ajoute_marque_domaniale | modifie) #IMPLIED>
+			            <!ELEMENT marque_semantique (#PCDATA)>
+			            <!ELEMENT introducteur_marque_diaphasique (#PCDATA)>
+			            <!ELEMENT marque_diaphasique (#PCDATA)>
+			            <!ELEMENT definition (#PCDATA)>
+			             <!ATTLIST definition type (encyclopedie) #IMPLIED>
+			            <!ELEMENT composant_de_renvoi (introducteur_renvoi, renvoi)>
+			             <!ELEMENT introducteur_renvoi (#PCDATA)>
+			             <!ELEMENT renvoi (#PCDATA)>
+			            <!ELEMENT contextualisation (#PCDATA)>
+			            <!ELEMENT subdivision_nuance_sens (#PCDATA)>
+			             <!ATTLIST subdivision_nuance_sens compare_avec_PL_1980 (nouveau) #IMPLIED >
+			            <!ELEMENT composant_synonyme (delimitateur_initial|introducteur_synonyme| separateur| synonyme|delimitateur_final)*>
+			              <!ATTLIST  composant_synonyme compare_avec_PL_1980 (supprime_synonyme | ajoute_synonyme | modifie__synonyme) #IMPLIED>
+			              <!ELEMENT introducteur_synonyme (#PCDATA) >
+			             <!ELEMENT synonyme (#PCDATA)>
+			             <!ELEMENT marque_diachronique (#PCDATA)>
+			             <!--<!ELEMENT  complement_encyclopedique (delimitateur_initial,encyclopedie, delimitateur_final)>
+			                 <!ELEMENT encyclopedie (#PCDATA) >-->
+			             <!ELEMENT UT_locution (introducteur_locution  |(locution | (coordination,locution_coordonnee)?) |separateur|delimitateur_initial|delimitateur_final|marque_diachronique|niveau_langue|  separateur_locution | definition_locution | contextualisation_locution | composant_opposition |marque_domaniale|UT_renvoi|composant_synonyme)*>
+			                 <!ELEMENT introducteur_locution (#PCDATA)>
+			                 <!ATTLIST introducteur_locution  compare_avec_PL_1980 (modifie_symbolique) #IMPLIED>
+			                 <!ELEMENT locution (#PCDATA)>
+			                 <!ELEMENT locution_coordonnee (#PCDATA)>
+			                 <!ELEMENT separateur_locution (#PCDATA)>
+			                 <!ELEMENT definition_locution (#PCDATA)>
+			                 <!ELEMENT contextualisation_locution (#PCDATA)>
+			                 <!ELEMENT composant_opposition (delimitateur_initial, introducteur_opposition, mot_opposition, delimitateur_final)>
+			                     <!ATTLIST composant_opposition compare_avec_PL_1980 (ajoute_composant_opposition_PL_1988) #IMPLIED>
+			                     <!ELEMENT introducteur_opposition (#PCDATA)>
+			                     <!ELEMENT mot_opposition (#PCDATA)>
+			                 <!ELEMENT composant_encyclopedie (delimitateur_initial| information_encyclopedie| delimitateur_final|introducteur_encyclopedique)* >
+			                			                     <!ATTLIST composant_encyclopédie compare_avec_PL_1980 (ajoute_omposant_encyclopedie_PL_1988) #IMPLIED>
+                              <!ELEMENT introducteur_encyclopedique (#PCDATA) >
+                              <!ELEMENT  information_encyclopedie (#PCDATA) >
+                              <!ELEMENT information_morphologique (delimitateur_initial| categorie | vedette| explication |delimitateur_final)*>
+                              <!ELEMENT vedette (#PCDATA)>
+                              <!ELEMENT explication (#PCDATA)>
+			 <!ELEMENT Bloc_des_traitements_de_item_polylexical (subdivision_de_groupe_du_sens?,rubique_thematique?, Unite_traitement_de_item_polylexical)+ >
+			 <!ELEMENT  Unite_traitement_de_item_polylexical (marque|subdivition_double_barre|subdivision_nuance_sens  |numero_subdivision | niveau_langue| marque_domaniale| thematique |separateur|marque_semantique |introducteur_marque_diaphasique? |marque_diachronique |marque_diaphasique | definition | composant_de_renvoi | contextualisation |composant_synonyme | complement_encyclopedique |separateur_de_complete_le_sens_definition |  complete_le_sens_definition | UT_locution)*>  
+			     <!ELEMENT numero_subdivision (#PCDATA)>
+                            <!ATTLIST numero_subdivision compare_avec_PL_1980 (modifie_subdivision_sens) #IMPLIED>
+	     
+	         <!ELEMENT Unite_item_recategorise (introducteur_recategorise| composante_recategorise |Unite_traitement_de_item_monolexical | Bloc_des_traitements_de_item_polylexical)*>
+	                   <!ELEMENT introducteur_recategorise (#PCDATA)>
+	                   <!ELEMENT  composante_recategorise (categorisation, (coordination, categorisation_coordonnee)?)>
+	         <!ELEMENT UT_renvoi (introducteur_revoi, mot_renvoi)>
+	           <!ATTLIST UT_renvoi compare_avec_PL_1980 (nouveau) #IMPLIED>
+	            <!ELEMENT marque (#PCDATA) >
+
+           <!ELEMENT subdivition_double_barre (#PCDATA) >
+	       <!ELEMENT introducteur_revoi (#PCDATA)>
+	       	       <!ELEMENT mot_renvoi (#PCDATA)>
+           <!ELEMENT relation_morphologique (marque_domaniale?,morphologie_relatif)>
+           <!ELEMENT morphologie_relatif (#PCDATA) >
+           <!ELEMENT Bloc_locution (UT_locution)+ >
+           <!ELEMENT subdivision_de_groupe_du_sens (#PCDATA)>
+			  <!ATTLIST subdivision_de_groupe_du_sens compare_avec_PL_1980 (nouveau) #IMPLIED>
+            <!ELEMENT rubique_thematique (#PCDATA) >
+                <!ATTLIST rubique_thematique compare_avec_PL_1980 (ajoute_thematique) #IMPLIED >
+	            <!-- zone_iconographie-->   
+         <!ELEMENT  zone_iconographie (#PCDATA)>
+ 

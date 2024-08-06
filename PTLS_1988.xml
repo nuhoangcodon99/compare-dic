@@ -1,0 +1,2282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="PTLS_1988.xsl"?>
+<!DOCTYPE PLimprimé SYSTEM "PTLS_1988.dtd">
+<PLimprimé>
+    <comprare_article class="phonetique-et-ajoute-numero">
+        <article compare_avec_PL_1980="modifie">
+            <ordonnateur_homographe compare_avec_PL_1980="ajoute_numero">1.</ordonnateur_homographe>
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DRIVER</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_transcription_phonetique
+                    compare_phonetique="modifie_presentation_phonetique">
+                    <unite_transcription_phonetique>
+                        <delimitateur_initial>[</delimitateur_initial>
+                        <transcription_phonetique>drajvœr</transcription_phonetique>
+                        <delimitateur_final>]</delimitateur_final>
+                    </unite_transcription_phonetique>
+                    <coordination>ou</coordination>
+                    <unite_transcription_phonetique_coordonnee>
+                        <delimitateur_initial>[</delimitateur_initial>
+                        <transcription_phonetique>drivœr</transcription_phonetique>
+                        <delimitateur_final>]</delimitateur_final>
+                    </unite_transcription_phonetique_coordonnee>
+                </composant_transcription_phonetique>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>n.</categorie>
+                        <genre>m.</genre>
+                    </categorisation>
+                </composant_de_categorisation>
+                <composant_d_etymologie compare_etymologie="ajoute_etymologie">
+                    <etymologie>
+                        <delimitateur_initial>(</delimitateur_initial>
+                        <introducteur_etymologie>mot.</introducteur_etymologie>
+                        <etymon_langue>angl.</etymon_langue>
+                        <delimitateur_final>)</delimitateur_final>
+                    </etymologie>
+                </composant_d_etymologie>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Bloc_des_traitements_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <numero_subdivision compare_avec_PL_1980="modifie_subdivision_sens"
+                            >1.</numero_subdivision>
+                        <definition>Au golf, club avec lequel on exécute le drive.</definition>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <numero_subdivision compare_avec_PL_1980="modifie_subdivision_sens"
+                            >2.</numero_subdivision>
+                        <definition>Jockey d'un sulky, en trot attelé.</definition>
+                    </Unite_traitement_de_item_polylexical>
+                </Bloc_des_traitements_de_item_polylexical>
+            </zone_de_traitement>
+        </article>
+        <!--Drive PTLR 1980-->
+        <article>
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DRIVER</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_transcription_phonetique
+                    compare_phonetique="modifie_presentation_phonetique">
+                    <unite_transcription_phonetique>
+                        <delimitateur_initial>[</delimitateur_initial>
+                        <transcription_phonetique>drajvœr</transcription_phonetique>
+                        <coordination>ou</coordination>
+                        <transcription_phonetique>drajvœr</transcription_phonetique>
+                        <delimitateur_final>]</delimitateur_final>
+                    </unite_transcription_phonetique>
+                </composant_transcription_phonetique>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>n.</categorie>
+                        <genre>m.</genre>
+                    </categorisation>
+                </composant_de_categorisation>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Bloc_des_traitements_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <definition>Au golf, club avec lequel on exécute le drive.</definition>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <subdivition_double_barre>||</subdivition_double_barre>
+                        <definition>Jockey d'un sulky, en trot attelé.</definition>
+                    </Unite_traitement_de_item_polylexical>
+                </Bloc_des_traitements_de_item_polylexical>
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article class="phonetique-et-ajoute-numero">
+        <article compare_avec_PL_1980="modifie">
+            <ordonnateur_homographe compare_avec_PL_1980="ajoute_numero">2.</ordonnateur_homographe>
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DRIVER</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_transcription_phonetique
+                    compare_phonetique="modifie_presentation_phonetique">
+                    <unite_transcription_phonetique>
+                        <delimitateur_initial>[</delimitateur_initial>
+                        <transcription_phonetique>drajvœr</transcription_phonetique>
+                        <delimitateur_final>]</delimitateur_final>
+                    </unite_transcription_phonetique>
+                    <coordination>ou</coordination>
+                    <unite_transcription_phonetique_coordonnee>
+                        <delimitateur_initial>[</delimitateur_initial>
+                        <transcription_phonetique>drivœr</transcription_phonetique>
+                        <delimitateur_final>]</delimitateur_final>
+                    </unite_transcription_phonetique_coordonnee>
+                </composant_transcription_phonetique>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>v.</categorie>
+                        <rection>i.</rection>
+                    </categorisation>
+                </composant_de_categorisation>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Unite_traitement_de_item_monolexical>
+                    <definition> Au tennis, au golf, faire un drive.</definition>
+                </Unite_traitement_de_item_monolexical>
+                <Unite_item_recategorise>
+                    <introducteur_recategorise>&#9648;</introducteur_recategorise>
+                    <composante_recategorise>
+                        <categorisation>
+                            <categorie>v.</categorie>
+                            <rection>t.</rection>
+                        </categorisation>
+                    </composante_recategorise>
+                </Unite_item_recategorise>
+                <Unite_traitement_de_item_monolexical>
+                    <definition>Conduire (un sulky), dans une course de trot attelé.</definition>
+                </Unite_traitement_de_item_monolexical>
+            </zone_de_traitement>
+        </article>
+        <!--Article DRIVE PTLR 1980-->
+        <article compare_avec_PL_1980="modifie">
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DRIVER</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_transcription_phonetique
+                    compare_phonetique="modifie_presentation_phonetique">
+                    <unite_transcription_phonetique>
+                        <delimitateur_initial>[</delimitateur_initial>
+                        <transcription_phonetique>drajve</transcription_phonetique>
+                        <coordination>ou</coordination>
+                        <transcription_phonetique>drive</transcription_phonetique>
+                        <delimitateur_final>]</delimitateur_final>
+                    </unite_transcription_phonetique>
+                </composant_transcription_phonetique>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>v.</categorie>
+                        <rection>i.</rection>
+                    </categorisation>
+                </composant_de_categorisation>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Unite_traitement_de_item_monolexical>
+                    <definition> Au tennis, au golf, faire un drive.</definition>
+                </Unite_traitement_de_item_monolexical>
+                <Unite_item_recategorise>
+                    <introducteur_recategorise>&#9648;</introducteur_recategorise>
+                    <composante_recategorise>
+                        <categorisation>
+                            <categorie>v.</categorie>
+                            <rection>t.</rection>
+                        </categorisation>
+                    </composante_recategorise>
+                </Unite_item_recategorise>
+                <Unite_traitement_de_item_monolexical>
+                    <definition>Conduire cheval attelé à un sulky dans une course de
+                        trot.</definition>
+                </Unite_traitement_de_item_monolexical>
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article class="ajouter-cate">
+        <!--DROGUÉ PTLR 1988-->
+        <article>
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DROGUÉ</item_en_adresse>
+                        <separateur>,</separateur>
+                        <finale_flexionnelle genre="féminin" nombre="singulier"
+                            >E</finale_flexionnelle>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation compare_cate="ajoute_categorie_grammaticale">
+                    <categorisation>
+                        <categorie>adj.</categorie>
+                    </categorisation>
+                    <coordination>et</coordination>
+                    <categorisation_coordonnee
+                        compare_cate_coordonnee="ajoute_categorie_grammaticale">
+                        <categorie>n.</categorie>
+                    </categorisation_coordonnee>
+                </composant_de_categorisation>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Unite_traitement_de_item_monolexical>
+                    <definition>Qui fait usage de drogues</definition>
+                    <separateur>;</separateur>
+                    <composant_synonyme>
+                        <synonyme>toxicomane</synonyme>
+                    </composant_synonyme>
+                </Unite_traitement_de_item_monolexical>
+
+            </zone_de_traitement>
+        </article>
+        <!--DROGUÉ PTLR 1980-->
+        <article>
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DROGUÉ</item_en_adresse>
+                        <separateur>,</separateur>
+                        <finale_flexionnelle genre="féminin" nombre="singulier"
+                            >E</finale_flexionnelle>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation compare_cate="ajoute_categorie_grammaticale">
+                    <categorisation>
+                        <categorie>n.</categorie>
+                    </categorisation>
+                </composant_de_categorisation>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Unite_traitement_de_item_monolexical>
+                    <definition>Personne intoxiquée par l'emploi de drogues.</definition>
+                    <composant_synonyme>
+                        <delimitateur_initial>(</delimitateur_initial>
+                        <introducteur_synonyme>Syn. </introducteur_synonyme>
+                        <synonyme>TOXICOMANE.</synonyme>
+                        <delimitateur_final>)</delimitateur_final>
+                    </composant_synonyme>
+                </Unite_traitement_de_item_monolexical>
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article class="beaucoup-De-modification">
+        <!--DROIT PTLR 1988-->
+        <article>
+            <ordonnateur_homographe compare_avec_PL_1980="ajoute_numero">1.</ordonnateur_homographe>
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DROIT</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>n.</categorie>
+                        <genre>m.</genre>
+                    </categorisation>
+                </composant_de_categorisation>
+                <composant_d_etymologie>
+                    <etymologie>
+                        <delimitateur_initial>(</delimitateur_initial>
+                        <etymon_langue>bas lat.</etymon_langue>
+                        <etymon>directum</etymon>
+                        <separateur>,</separateur>
+                        <etymon_glose>ce qui est juste</etymon_glose>
+                        <delimitateur_final>)</delimitateur_final>
+                    </etymologie>
+                </composant_d_etymologie>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Bloc_des_traitements_de_item_polylexical>
+                    <subdivision_de_groupe_du_sens>I.</subdivision_de_groupe_du_sens>
+                    <Unite_traitement_de_item_polylexical>
+                        <numero_subdivision>1.</numero_subdivision>
+                        <definition>Faculté d'accomplir ou non qqch, d'exiger qqch d'autrui, en
+                            vertu de règles reconnues, individuelles ou collectives</definition>
+                        <separateur>;</separateur>
+                        <composant_synonyme>
+                            <synonyme>pouvoir</synonyme>
+                            <separateur>, </separateur>
+                            <synonyme>autorisation.</synonyme>
+                        </composant_synonyme>
+                        <contextualisation>On n'a pas le droit de fumer.</contextualisation>
+                        <UT_locution>
+                            <locution>Avoir des droits et des devoirs.</locution>
+                            <introducteur_locution compare_avec_PL_1980="modifie_symbolique"
+                                >◊</introducteur_locution>
+                            <locution>Être en droit de</locution>
+                            <separateur_locution>:</separateur_locution>
+                            <definition_locution>pouvoir</definition_locution>
+                        </UT_locution>
+                        <UT_locution>
+                            <introducteur_locution compare_avec_PL_1980="modifie_symbolique"
+                                >➖</introducteur_locution>
+                            <locution> Faire droit à (une demande)</locution>
+                            <separateur_locution>:</separateur_locution>
+                            <definition_locution>satisfaire.</definition_locution>
+                        </UT_locution>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <numero_subdivision>2.</numero_subdivision>
+                        <definition>Ce qui donne une autorité morale, une influence.</definition>
+                        <contextualisation> Droit d'aînesse.</contextualisation>
+                        <contextualisation>Avoir des droits sur gqn, qqch.</contextualisation>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <numero_subdivision>3.</numero_subdivision>
+                        <niveau_langue>Fam.</niveau_langue>
+                        <UT_locution>
+                            <locution>Avoir droit à</locution>
+                            <separateur_locution>:</separateur_locution>
+                            <definition_locution>ne pas pouvoir éviter (qqch de
+                                désagrébale).</definition_locution>
+                            <contextualisation_locution>Vous aurez droit à une
+                                amende.</contextualisation_locution>
+                        </UT_locution>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <numero_subdivision>4.</numero_subdivision>
+                        <definition>Somme d'argent exigible en vertu d’un règlement</definition>
+                        <separateur>;</separateur>
+                        <composant_synonyme>
+                            <synonyme>impôt</synonyme>
+                            <separateur>, </separateur>
+                            <synonyme>taxe.</synonyme>
+                        </composant_synonyme>
+                        <contextualisation>Droits de douane.</contextualisation>
+                        <contextualisation> Droits d'auteur</contextualisation>
+                    </Unite_traitement_de_item_polylexical>
+                    <subdivision_de_groupe_du_sens>II</subdivision_de_groupe_du_sens>
+                    <rubique_thematique compare_avec_PL_1980="ajoute_thematique">Le
+                        droit</rubique_thematique>
+                    <Unite_traitement_de_item_polylexical>
+                        <numero_subdivision>1.</numero_subdivision>
+                        <definition>L'ensemble des principes qui régissent les rapports des hommes
+                            entre eux, et servent à établir des règles juridiques.</definition>
+                        <UT_locution>
+                            <introducteur_locution compare_avec_PL_1980="modifie_symbolique"
+                                >—</introducteur_locution>
+                            <locution>Droit naturel</locution>
+                            <definition_locution>qui prend en considération la nature de l’homme et
+                                ses aspirations.</definition_locution>
+                        </UT_locution>
+                        <UT_locution>
+                            <introducteur_locution compare_avec_PL_1980="modifie_symbolique"
+                                >—</introducteur_locution>
+                            <locution>Monarchie de droit divin</locution>
+                            <separateur_locution>,</separateur_locution>
+                            <definition_locution>dans laquelle le roi tient son autorité souveraine
+                                de Dieu.</definition_locution>
+                        </UT_locution>
+                        <UT_locution>
+                            <introducteur_locution compare_avec_PL_1980="modifie_symbolique"
+                                >◊</introducteur_locution>
+                            <definition_locution>À bon droit, de plein droit</definition_locution>
+                            <separateur_locution>:</separateur_locution>
+                            <definition_locution>à juste titre, légitimement.</definition_locution>
+                        </UT_locution>
+                        <UT_locution>
+                            <introducteur_locution compare_avec_PL_1980="modifie_symbolique"
+                                >—</introducteur_locution>
+                            <locution>Qui de droit</locution>
+                            <separateur_locution>:</separateur_locution>
+                            <definition_locution>la personne compétente, qui a l'autorité
+                                requise.</definition_locution>
+                            <contextualisation_locution>S'adresser à qui de
+                                droit.</contextualisation_locution>
+                        </UT_locution>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <numero_subdivision>2.</numero_subdivision>
+                        <definition>L'ensemble des règles juridiques en vigueur dans une
+                            société.</definition>
+                        <contextualisation>Le droit français.</contextualisation>
+                        <contextualisation>Droit coutumier et droit écrit.</contextualisation>
+                        <UT_locution>
+                            <introducteur_locution compare_avec_PL_1980="modifie_symbolique"
+                                >—</introducteur_locution>
+                            <locution>Droit positif</locution>
+                            <separateur_locution>.</separateur_locution>
+                            <definition_locution> effectivement appliqué dans une
+                                société.</definition_locution>
+                        </UT_locution>
+                        <UT_locution>
+                            <introducteur_locution compare_avec_PL_1980="modifie_symbolique"
+                                >—</introducteur_locution>
+                            <locution>Prisonnier de droit commun</locution>
+                            <composant_opposition
+                                compare_avec_PL_1980="ajoute_composant_opposition_PL_1988">
+                                <delimitateur_initial>(</delimitateur_initial>
+                                <introducteur_opposition>par opp. à</introducteur_opposition>
+                                <mot_opposition>prisonnier politique</mot_opposition>
+                                <delimitateur_final>)</delimitateur_final>
+                            </composant_opposition>
+                            <separateur_locution>,</separateur_locution>
+                            <definition_locution>dont l'infraction relève des règles juridiques
+                                générales en l'absence de dispositions
+                                particulières.</definition_locution>
+                        </UT_locution>
+                        <UT_locution>
+                            <introducteur_locution compare_avec_PL_1980="modifie_symbolique"
+                                >◊</introducteur_locution>
+                            <locution>Droit privé public</locution>
+                            <separateur_locution>:</separateur_locution>
+                            <definition_locution>ensemble des règles relatives aux rapports des
+                                particuliers entre eux, aux rapports entre l'État et les
+                                particuliers.</definition_locution>
+                        </UT_locution>
+                        <UT_locution>
+                            <introducteur_locution compare_avec_PL_1980="modifie_symbolique"
+                                >—</introducteur_locution>
+                            <locution>Droit administratif</locution>
+                            <separateur_locution>:</separateur_locution>
+                            <definition_locution> ensemble des règles qui régissent l’organisation
+                                et l'activité de l'Administration.</definition_locution>
+                        </UT_locution>
+                        <UT_locution>
+                            <introducteur_locution compare_avec_PL_1980="modifie_symbolique">
+                                —</introducteur_locution>
+                            <locution> Droit civil </locution>
+                            <separateur_locution>:</separateur_locution>
+                            <definition_locution> ensemble des règles relatives aux personnes et aux
+                                biens.</definition_locution>
+                        </UT_locution>
+                        <UT_locution>
+                            <introducteur_locution compare_avec_PL_1980="modifie_symbolique">
+                                —</introducteur_locution>
+                            <locution>Droit commercial </locution>
+                            <separateur_locution>:</separateur_locution>
+                            <definition_locution>ensemble des.règles applicales aux actes de
+                                commerce, aux commerçants et aux sociétés
+                                commerciales.</definition_locution>
+                        </UT_locution>
+                        <UT_locution>
+                            <introducteur_locution compare_avec_PL_1980="modifie_symbolique">
+                                —</introducteur_locution>
+                            <locution>Droit constitutionnel</locution>
+                            <separateur_locution> : </separateur_locution>
+                            <definition_locution>ensemble des règles, des institutions et des
+                                pratiques relatives au pouvoir politique.</definition_locution>
+                        </UT_locution>
+                        <UT_locution>
+                            <introducteur_locution compare_avec_PL_1980="modifie_symbolique">— </introducteur_locution>
+                            <locution>Droit fiscal </locution>
+                            <separateur_locution>:</separateur_locution>
+                            <definition_locution> ensemble des règles relatives aux impôts et taxes
+                                de toute nature.</definition_locution>
+                        </UT_locution>
+                        <UT_locution>
+                            <introducteur_locution compare_avec_PL_1980="modifie_symbolique"
+                                >—</introducteur_locution>
+                            <locution> Droit international </locution>
+                            <separateur_locution>: </separateur_locution>
+                            <definition_locution>ensemble des règles qui régissent les relations
+                                dans la société internationale,</definition_locution>
+                        </UT_locution>
+                        <UT_locution>
+                            <introducteur_locution compare_avec_PL_1980="modifie_symbolique"
+                                >—</introducteur_locution>
+                            <locution> Droit pénal </locution>
+                            <separateur_locution>:</separateur_locution>
+                            <definition_locution>ensemble des règles qui sanctionnent les infrac-
+                                tions et leurs auteurs.</definition_locution>
+                        </UT_locution>
+                        <UT_locution>
+                            <introducteur_locution compare_avec_PL_1980="modifie_symbolique">— </introducteur_locution>
+                            <locution>Droit du travail </locution>
+                            <separateur_locution>: </separateur_locution>
+                            <definition_locution>ensemble des règles applicables aux rapports
+                                individuels ou collectifs des salariés et des
+                                employeurs.</definition_locution>
+                        </UT_locution>
+                        <UT_locution>
+                            <introducteur_locution compare_avec_PL_1980="modifie_symbolique"
+                                >◊</introducteur_locution>
+                            <locution>Droit canon</locution>
+                            <coordination>ou</coordination>
+                            <locution_coordonnee>canonique</locution_coordonnee>
+                            <UT_renvoi>
+                                <introducteur_revoi>➔</introducteur_revoi>
+                                <mot_renvoi>canon</mot_renvoi>
+                            </UT_renvoi>
+                        </UT_locution>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <numero_subdivision>3.</numero_subdivision>
+                        <definition>Science des règles juridiques.</definition>
+                        <contextualisation>Faire des études de droit.</contextualisation>
+                        <contextualisation> Faire son droit.</contextualisation>
+                    </Unite_traitement_de_item_polylexical>
+                </Bloc_des_traitements_de_item_polylexical>
+            </zone_de_traitement>
+        </article>
+        <!--DROIT PTLR 1980-->
+        <article>
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DROIT</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>n.</categorie>
+                        <genre>m.</genre>
+                    </categorisation>
+                </composant_de_categorisation>
+                <composant_d_etymologie>
+                    <etymologie>
+                        <delimitateur_initial>(</delimitateur_initial>
+                        <etymon_langue>bas lat.</etymon_langue>
+                        <etymon>directum</etymon>
+                        <separateur>,</separateur>
+                        <etymon_glose>ce qui est juste</etymon_glose>
+                        <delimitateur_final>)</delimitateur_final>
+                    </etymologie>
+                </composant_d_etymologie>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Bloc_des_traitements_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <definition>Ensemble des règles qui régissent les rapports des hommes
+                            constituant une même société.</definition>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <subdivition_double_barre>||</subdivition_double_barre>
+                        <definition>Science de l'étude de ces règles.</definition>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <subdivition_double_barre>||</subdivition_double_barre>
+                        <definition>Impôt, taxe , somme d'argent exigée</definition>
+                        <separateur> : </separateur>
+                        <contextualisation>droit de mutation</contextualisation>
+                        <separateur>;</separateur>
+                        <contextualisation>droit d'acte.</contextualisation>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <subdivition_double_barre>||</subdivition_double_barre>
+                        <definition>Faculté de faire un acte, de jouir d’une chose, d'en disposer où
+                            d'exiger qqch d’une autre personne</definition>
+                        <separateur>:</separateur>
+                        <contextualisation>la Constituante a défini les droits de
+                            l’homme.</contextualisation>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <subdivition_double_barre>||</subdivition_double_barre>
+                        <definition>Ce qui donne une autorité morale, une influence, un
+                            pouvoir</definition>
+                        <separateur> : </separateur>
+                        <contextualisation>vous n’en avez pas le droit.</contextualisation>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <subdivition_double_barre>||</subdivition_double_barre>
+                        <marque_domaniale>Math.</marque_domaniale>
+                        <marque_diachronique>Anc.</marque_diachronique>
+                        <definition>unité d'angle égale à 900.</definition>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <subdivition_double_barre>||</subdivition_double_barre>
+                        <marque_domaniale>Sports.</marque_domaniale>
+                        <definition>Pied ou poing droit </definition>
+                        <separateur>:</separateur>
+                        <contextualisation>tirer du droit</contextualisation>
+                        <separateur>;</separateur>
+                        <contextualisation>frapper du droit.</contextualisation>
+                        <UT_locution>
+                            <introducteur_locution>●</introducteur_locution>
+                            <locution>À bon droit</locution>
+                            <separateur_locution>,</separateur_locution>
+                            <definition_locution>justement.</definition_locution>
+                        </UT_locution>
+                    </Unite_traitement_de_item_polylexical>
+                </Bloc_des_traitements_de_item_polylexical>
+                <Bloc_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Avoir droit à</locution>
+                        <delimitateur_initial>(</delimitateur_initial>
+                        <niveau_langue>Fam.</niveau_langue>
+                        <delimitateur_final>)</delimitateur_final>
+                        <separateur_locution>,</separateur_locution>
+                        <definition_locution>ne pas pouvoir éviter qqch de
+                            désagréable.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>De plein droit</locution>
+                        <separateur_locution>,</separateur_locution>
+                        <definition_locution>sans qu'il y ait matière à
+                            contestation.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Droit administratif</locution>
+                        <separateur_locution>,</separateur_locution>
+                        <definition_locution>branche du droit public ayant pour objet le
+                            fonctionnement de l’Administration et ses rapports avec les
+                            particuliers.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Droit canon où canonique</locution>
+                        <separateur_locution>,</separateur_locution>
+                        <UT_renvoi>
+                            <introducteur_revoi>v.</introducteur_revoi>
+                            <mot_renvoi>CANON.</mot_renvoi>
+                        </UT_renvoi>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Droit civil</locution>
+                        <separateur_locution>,</separateur_locution>
+                        <definition_locution>branche du droit privé portant sur l’état et la
+                            capacité des personnes, la famille, le patrimoine, la transmission des
+                            biens, les contrats, les obligations.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Droit commercial</locution>
+                        <separateur_locution>,</separateur_locution>
+                        <definition_locution>branche du droit privé régissant les actes de commerce,
+                            les commerçants, les sociétés commerciales.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Droit commun</locution>
+                        <separateur_locution>,</separateur_locution>
+                        <definition_locution>ensemble des règles juridiques qui s'appliquent à un
+                            rapport de droit donné en l'absence de dispositions législatives ou
+                            réglementaires impératives et de stipulations particulières des
+                            parties.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Droit constitutionnel</locution>
+                        <separateur_locution>,</separateur_locution>
+                        <definition_locution>branche du droit public qui définit la structure et les
+                            rapports des pouvoirs publics ainsi que la participation des citoyens à
+                            leur fonctionnement.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Droit divin</locution>
+                        <separateur_locution>,</separateur_locution>
+                        <definition_locution>qui vient de Dieu.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Droit écrit</locution>
+                        <separateur_locution>,</separateur_locution>
+                        <definition_locution>exprimé dans un texte élaboré à cet effet par le
+                            législateur.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Droit fiscal</locution>
+                        <separateur_locution>,</separateur_locution>
+                        <definition_locution>partie du droit public s'appliquant à l'impôt et aux
+                            techniques permettant de le percevoir.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Droit des gens</locution>
+                        <separateur_locution>,</separateur_locution>
+                        <marque_diachronique>anc.</marque_diachronique>
+                        <definition_locution>dénomination du DROIT INTERNATIONAL
+                            PUBLIC.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Droit international privé</locution>
+                        <separateur_locution>,</separateur_locution>
+                        <definition_locution>ensemble des règles qui servent à trancher les conflits
+                            entre individus de nationalités différentes.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Droit international public</locution>
+                        <separateur_locution>,</separateur_locution>
+                        <definition_locution>ensemble des règles que les États appliquent à leurs
+                            rapports.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Droit naturel</locution>
+                        <separateur_locution>,</separateur_locution>
+                        <definition_locution>ensemble des normes prenant en considération la nature
+                            de l’homme et sa finalité dans le monde.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Droit pénal</locution>
+                        <separateur_locution>,</separateur_locution>
+                        <definition_locution>ensemble des règles qui définissent,réviennent et
+                            sanctionnent les infractions.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Droit positif</locution>
+                        <separateur_locution>,</separateur_locution>
+                        <definition_locution>droit effectivement appliqué dans une société
+                            donnée.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Droit privé</locution>
+                        <separateur_locution>,</separateur_locution>
+                        <definition_locution>ensemble des règles qui régissent les rapports des
+                            individus entre eux.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Droit public</locution>
+                        <separateur_locution>,</separateur_locution>
+                        <definition_locution>ensemble des règles relatives à l’organisation de
+                            l'État et à ses rapports avec les particuliers.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Droit du travail</locution>
+                        <separateur_locution>,</separateur_locution>
+                        <definition_locution>ensemble des règles qui régissent les rapports entre
+                            employeurs et employés.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>État de droit</locution>
+                        <separateur_locution>,</separateur_locution>
+                        <definition_locution>système d’organisation des sociétés dans lequel
+                            l'ensembledes rapports politiques et sociaux est soumis au
+                            droit.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Être en droit de</locution>
+                        <separateur_locution>,</separateur_locution>
+                        <definition_locution>avoir le droit de.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Faire droit à une demande</locution>
+                        <separateur_locution>,</separateur_locution>
+                        <definition_locution>l'accueillir favorablement.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Qui de droit</locution>
+                        <separateur_locution>,</separateur_locution>
+                        <definition_locution>la personne compétente, celle qui a l'autorité
+                            requise.</definition_locution>
+                    </UT_locution>
+                </Bloc_locution>
+
+
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article class="beaucoup-De-modification">
+        <article compare_avec_PL_1980="separer_a_partir_d_autre_article">
+            <ordonnateur_homographe compare_avec_PL_1980="ajoute_numero">2.</ordonnateur_homographe>
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DROIT</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>n.</categorie>
+                        <genre>m.</genre>
+                    </categorisation>
+                </composant_de_categorisation>
+                <composant_d_etymologie compare_etymologie="ajoute_etymologie">
+                    <etymologie>
+                        <delimitateur_initial>(</delimitateur_initial>
+                        <etymon_langue>lat.</etymon_langue>
+                        <etymon>directum</etymon>
+                        <separateur>,</separateur>
+                        <etymon_glose>ce qui est droit</etymon_glose>
+                        <delimitateur_final>)</delimitateur_final>
+                    </etymologie>
+                </composant_d_etymologie>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Bloc_des_traitements_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <numero_subdivision>1.</numero_subdivision>
+                        <marque_domaniale>SPORT</marque_domaniale>
+                        <definition>Pied ou poing droit.</definition>
+                        <contextualisation>Tirer du droit.</contextualisation>
+                        <contextualisation>Frapper du droit</contextualisation>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <numero_subdivision>2.</numero_subdivision>
+                        <definition>Coup porté avec le poing droit, en boxe.</definition>
+                        <contextualisation> Avoir un bon droit.</contextualisation>
+                    </Unite_traitement_de_item_polylexical>
+                </Bloc_des_traitements_de_item_polylexical>
+            </zone_de_traitement>
+        </article>
+        <!--PTLR 1980-->
+    </comprare_article>
+    <comprare_article class="beaucoup-De-modification">
+        <article>
+            <ordonnateur_homographe compare_avec_PL_1980="ajoute_numero">3.</ordonnateur_homographe>
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DROIT</item_en_adresse>
+                        <separateur>,</separateur>
+                        <finale_flexionnelle genre="féminin" nombre="singulier"
+                            >E</finale_flexionnelle>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>adj.</categorie>
+                    </categorisation>
+                </composant_de_categorisation>
+                <composant_d_etymologie>
+                    <etymologie>
+                        <delimitateur_initial>(</delimitateur_initial>
+                        <etymon_langue>lat.</etymon_langue>
+                        <etymon>directum</etymon>
+                        <separateur>,</separateur>
+                        <etymon_glose>direct</etymon_glose>
+                        <delimitateur_final>)</delimitateur_final>
+                    </etymologie>
+                </composant_d_etymologie>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Bloc_des_traitements_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <numero_subdivision>1.</numero_subdivision>
+                        <definition>Qui s'étend sans déviation d’une extrémité à
+                            l’autre</definition>
+                        <separateur>;</separateur>
+                        <composant_synonyme>
+                            <synonyme>aligné</synonyme>
+                            <separateur>, </separateur>
+                            <synonyme>rectiligne.</synonyme>
+                        </composant_synonyme>
+                        <contextualisation>La ligne droite est le plus court chemin d'un point à un
+                            autre.</contextualisation>
+                        <UT_locution>
+                            <introducteur_locution>◊</introducteur_locution>
+                            <definition_locution> Veste droite, qui se ferme bord à bord </definition_locution>
+                            <composant_opposition
+                                compare_avec_PL_1980="ajoute_composant_opposition_PL_1988">
+                                <delimitateur_initial>(</delimitateur_initial>
+                                <introducteur_opposition>par opp. à</introducteur_opposition>
+                                <mot_opposition>veste croisée</mot_opposition>
+                                <delimitateur_final>).</delimitateur_final>
+                            </composant_opposition>
+                        </UT_locution>
+                        <UT_locution>
+                            <introducteur_locution>—</introducteur_locution>
+                            <locution>Jupe droite</locution>
+                            <separateur_locution>,</separateur_locution>
+                            <definition_locution> ni ample ni cintrée.</definition_locution>
+                        </UT_locution>
+                        <UT_locution>
+                            <introducteur_locution>◊</introducteur_locution>
+                            <locution>En droite ligne</locution>
+                            <separateur_locution>:</separateur_locution>
+                            <definition_locution>directement.</definition_locution>
+                        </UT_locution>
+                        <UT_locution>
+                            <introducteur_locution>—</introducteur_locution>
+                            <marque_domaniale marque_domaniale_compare="ajoute_marque_domaniale"
+                                >SPORT.</marque_domaniale>
+                            <locution>Coup droit</locution>
+                            <separateur_locution> :</separateur_locution>
+                            <definition_locution>au tennis et au tennis de table, attaque de la
+                                balle du côté où le joueur tient sa raquette</definition_locution>
+                            <composant_opposition
+                                compare_avec_PL_1980="ajoute_composant_opposition_PL_1988">
+                                <delimitateur_initial>(</delimitateur_initial>
+                                <introducteur_opposition>par opp.à</introducteur_opposition>
+                                <mot_opposition>revers</mot_opposition>
+                                <delimitateur_final>) </delimitateur_final>
+                            </composant_opposition>
+                            <separateur>;</separateur>
+                            <composant_synonyme>
+                                <synonyme>en escrime</synonyme>
+                                <separateur>,</separateur>
+                                <synonyme>coup porté sans dégagement.</synonyme>
+                            </composant_synonyme>
+                        </UT_locution>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <numero_subdivision>2.</numero_subdivision>
+                        <definition>Qui se tient verticalement</definition>
+                        <separateur>;</separateur>
+                        <composant_synonyme>
+                            <synonyme>debout</synonyme>
+                            <separateur>, </separateur>
+                            <synonyme>stable.</synonyme>
+                        </composant_synonyme>
+                        <contextualisation>Mur droit.</contextualisation>
+                        <contextualisation> Cadre droit.</contextualisation>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <numero_subdivision>3.</numero_subdivision>
+                        <marque_domaniale>MATH.</marque_domaniale>
+                        <UT_locution>
+                            <locution>Angle droit</locution>
+                            <separateur_locution> :</separateur_locution>
+                            <definition_locution>l’un quelconque des angles formés par deux droites
+                                perpendiculaires. (Chacun mesure 900.)</definition_locution>
+                        </UT_locution>
+                        <UT_locution>
+                            <introducteur_locution>—</introducteur_locution>
+                            <locution>Cylindre, prisme droit</locution>
+                            <separateur_locution> :</separateur_locution>
+                            <definition_locution>dont les génératrices sont perpendiculaires au plan
+                                de la directrice.</definition_locution>
+                        </UT_locution>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <numero_subdivision> 4.</numero_subdivision>
+                        <definition>Qui juge sainement, qui agit honnêtement</definition>
+                        <separateur>;</separateur>
+                        <composant_synonyme>
+                            <synonyme>honnête</synonyme>
+                            <separateur>, </separateur>
+                            <synonyme>loyal</synonyme>
+                            <separateur>, </separateur>
+                            <synonyme>sensé</synonyme>
+                        </composant_synonyme>
+                        <contextualisation> Jugement, acte droit.</contextualisation>
+                        <contextualisation> Un homme droit.</contextualisation>
+                        <UT_locution>
+                            <introducteur_locution>© </introducteur_locution>
+                            <locution>L'edroit chemin </locution>
+                            <separateur_locution>:</separateur_locution>
+                            <definition_locution>la voie de l’honnêtèté.</definition_locution>
+                        </UT_locution>
+                    </Unite_traitement_de_item_polylexical>
+                </Bloc_des_traitements_de_item_polylexical>
+                <Unite_item_recategorise>
+                    <introducteur_recategorise>♦</introducteur_recategorise>
+                    <composante_recategorise>
+                        <categorisation>
+                            <categorie> adv.</categorie>
+                        </categorisation>
+                    </composante_recategorise>
+                    <Bloc_des_traitements_de_item_polylexical>
+                        <Unite_traitement_de_item_polylexical>
+                            <numero_subdivision> 1.</numero_subdivision>
+                            <definition>Directement, par le plus court chemin.</definition>
+                            <contextualisation>Aller droit au but.</contextualisation>
+                        </Unite_traitement_de_item_polylexical>
+                        <Unite_traitement_de_item_polylexical>
+                            <numero_subdivision>2.</numero_subdivision>
+                            <definition>De façon honnête.</definition>
+                            <contextualisation> Marcher droit.</contextualisation>
+                        </Unite_traitement_de_item_polylexical>
+                    </Bloc_des_traitements_de_item_polylexical>
+                </Unite_item_recategorise>
+            </zone_de_traitement>
+        </article>
+        <article>
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DROIT</item_en_adresse>
+                        <separateur>,</separateur>
+                        <finale_flexionnelle genre="féminin" nombre="singulier"
+                            >E</finale_flexionnelle>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>adj.</categorie>
+                    </categorisation>
+                </composant_de_categorisation>
+                <composant_d_etymologie>
+                    <etymologie>
+                        <delimitateur_initial>(</delimitateur_initial>
+                        <etymon_langue>lat.</etymon_langue>
+                        <etymon>directus</etymon>
+                        <separateur>,</separateur>
+                        <etymon_glose>direct</etymon_glose>
+                        <delimitateur_final>)</delimitateur_final>
+                    </etymologie>
+                </composant_d_etymologie>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Bloc_des_traitements_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <definition>Qui n'est pas courbe</definition>
+                        <separateur>:</separateur>
+                        <contextualisation>La ligne droite est le plus court chemin d’un point à un
+                            autre.</contextualisation>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <subdivition_double_barre>||</subdivition_double_barre>
+                        <definition>Vertical, debout; stable</definition>
+                        <separateur>:</separateur>
+                        <contextualisation>mur droit</contextualisation>
+                        <separateur>,</separateur>
+                        <contextualisation>cadre droit.</contextualisation>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <subdivition_double_barre>||</subdivition_double_barre>
+                        <marque_domaniale>Math.</marque_domaniale>
+                        <definition>Se dit de l'un quelconque des angles formés par deux lignes
+                            droites, lorsque ces angles sont tous égaux.</definition>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <subdivition_double_barre>||</subdivition_double_barre>
+                        <definition>Qui est du côté opposé à celui du cœur </definition>
+                        <separateur>:</separateur>
+                        <contextualisation>main droite.</contextualisation>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <subdivition_double_barre>||</subdivition_double_barre>
+                        <definition>Qui n'est ni ample ni cintré</definition>
+                        <separateur>:</separateur>
+                        <contextualisation>jupe droite.</contextualisation>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <subdivition_double_barre>||</subdivition_double_barre>
+                        <definition>Qui juge sainement</definition>
+                        <separateur>:</separateur>
+                        <contextualisation>jugement droit.</contextualisation>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <subdivition_double_barre>||</subdivition_double_barre>
+                        <definition>Qui agit honnêtement</definition>
+                        <separateur>;</separateur>
+                        <composant_synonyme>
+                            <synonyme>honnête</synonyme>
+                            <separateur>,</separateur>
+                            <synonyme>loyal.</synonyme>
+                        </composant_synonyme>
+                    </Unite_traitement_de_item_polylexical>
+                </Bloc_des_traitements_de_item_polylexical>
+
+                <Bloc_locution>
+                    <UT_locution>
+                        <introducteur_locution>●</introducteur_locution>
+                        <locution>Coup droit</locution>
+                        <separateur>,</separateur>
+                        <definition_locution>au tennis, attaque de la balle du côté où le joueur
+                            tient sa raquette</definition_locution>
+                        <separateur>;</separateur>
+                        <definition_locution>en escrime, coup porté sans
+                            dégagement.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Engrenage droit</locution>
+                        <separateur>,</separateur>
+                        <definition_locution>engrenage dont les pignons ont leurs axes
+                            parallèles.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>En droite ligne</locution>
+                        <separateur>,</separateur>
+                        <definition_locution>directement.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Veste droite</locution>
+                        <separateur>,</separateur>
+                        <definition_locution>dont la fermeture se fait bord à
+                            bord.</definition_locution>
+                        <composant_opposition>
+                            <delimitateur_initial>(</delimitateur_initial>
+                            <introducteur_opposition>Contr.</introducteur_opposition>
+                            <mot_opposition>VESTE CROISÉE</mot_opposition>
+                            <delimitateur_final>)</delimitateur_final>
+                        </composant_opposition>
+                    </UT_locution>
+                </Bloc_locution>
+                <Unite_item_recategorise>
+                    <introducteur_recategorise>♦</introducteur_recategorise>
+                    <composante_recategorise>
+                        <categorisation>
+                            <categorie> adv.</categorie>
+                        </categorisation>
+                    </composante_recategorise>
+                    <Unite_traitement_de_item_monolexical>
+                        <definition>Directement</definition>
+                        <separateur>;</separateur>
+                        <definition> sans intermédiaire</definition>
+                        <separateur>;</separateur>
+                        <definition>honnêtement</definition>
+                        <separateur>:</separateur>
+                        <contextualisation>aller droit au but</contextualisation>
+                        <separateur>,</separateur>
+                        <contextualisation>marcher droit.</contextualisation>
+                    </Unite_traitement_de_item_monolexical>
+                </Unite_item_recategorise>
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article class="beaucoup-De-modification">
+        <article compare_avec_PL_1980="nouveau-article">
+            <ordonnateur_homographe compare_avec_PL_1980="ajoute_numero">4.</ordonnateur_homographe>
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DROIT</item_en_adresse>
+                        <separateur>,</separateur>
+                        <finale_flexionnelle genre="féminin" nombre="singulier"
+                            >E</finale_flexionnelle>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>adj.</categorie>
+                    </categorisation>
+                </composant_de_categorisation>
+                <composant_d_etymologie>
+                    <etymologie>
+                        <delimitateur_initial>(</delimitateur_initial>
+                        <etymon_langue>lat.</etymon_langue>
+                        <etymon>directus</etymon>
+                        <delimitateur_final>)</delimitateur_final>
+                    </etymologie>
+                </composant_d_etymologie>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Unite_traitement_de_item_monolexical>
+                    <definition>Qui est du côté opposé à celui du cœur.</definition>
+                    <contextualisation>Main droite et main gauche.</contextualisation>
+                </Unite_traitement_de_item_monolexical>
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article>
+        <article>
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DROITE</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>n.</categorie>
+                        <genre>f.</genre>
+                    </categorisation>
+                </composant_de_categorisation>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Bloc_des_traitements_de_item_polylexical>
+                    <subdivision_de_groupe_du_sens>I.</subdivision_de_groupe_du_sens>
+                    <Unite_traitement_de_item_polylexical>
+                        <numero_subdivision>1.</numero_subdivision>
+                        <definition>Côté droit.</definition>
+                        <contextualisation>Tourner sur la droite.</contextualisation>
+                        <UT_locution>
+                            <introducteur_locution>—</introducteur_locution>
+                            <locution>Garder sa droite</locution>
+                            <separateur>:</separateur>
+                            <definition_locution>rester sur le côté droit (d’une
+                                voie).</definition_locution>
+                        </UT_locution>
+                        <UT_locution>
+                            <introducteur_locution>◊</introducteur_locution>
+                            <locution>À droite et à gauche</locution>
+                            <separateur>:</separateur>
+                            <definition_locution>de tous côtés.</definition_locution>
+                        </UT_locution>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <numero_subdivision>2.</numero_subdivision>
+                        <definition>Main droite.</definition>
+                        <UT_locution>
+                            <introducteur_locution>◊</introducteur_locution>
+                            <definition_locution>En boxe,coup porté avec le poing
+                                droit</definition_locution>
+                            <separateur>;</separateur>
+                            <composant_synonyme>
+                                <synonyme>droit.</synonyme>
+                            </composant_synonyme>
+                        </UT_locution>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <numero_subdivision>3.</numero_subdivision>
+                        <definition>La droite</definition>
+                        <separateur> :</separateur>
+                        <definition>l'ensemble des députés conservateurs qui siègent à la droite du
+                            président de l'assemblée ; ceux qui soutien- nent ces
+                            députés.</definition>
+                        <contextualisation>Ne voter ni pour la droite ni pour la
+                            gauche.</contextualisation>
+                        <UT_locution>
+                            <introducteur_locution>◊</introducteur_locution>
+                            <locution>Extrême droite</locution>
+                            <separateur>:</separateur>
+                            <definition_locution>en de l’assemblée dont l'opinion est la plus
+                                conservatrice</definition_locution>
+                            <separateur>;</separateur>
+                            <definition_locution>ensemble de ceux (citoyens, électeurs) qui les
+                                soutiennent.</definition_locution>
+                        </UT_locution>
+                    </Unite_traitement_de_item_polylexical>
+                    <subdivision_de_groupe_du_sens>II.</subdivision_de_groupe_du_sens>
+                    <Unite_traitement_de_item_polylexical>
+                        <marque_domaniale>MATH.</marque_domaniale>
+                        <definition>Courbe du plan illimitée, entièrement déterminée par deux de ses
+                            points.</definition>
+                    </Unite_traitement_de_item_polylexical>
+                </Bloc_des_traitements_de_item_polylexical>
+            </zone_de_traitement>
+        </article>
+        <article>
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DROITE</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>n.</categorie>
+                        <genre>f.</genre>
+                    </categorisation>
+                </composant_de_categorisation>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Bloc_des_traitements_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <definition>Le côté droit.</definition>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <subdivition_double_barre>||</subdivition_double_barre>
+                        <definition>La main droite.</definition>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <subdivition_double_barre>||</subdivition_double_barre>
+                        <definition>Partie d’une assemblée délibérante, siégeant habituellement à la
+                            droite du président, et constituée par les éléments conservateurs de la
+                            représentation nationale.</definition>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <subdivition_double_barre>||</subdivition_double_barre>
+                        <marque_domaniale>Boxe.</marque_domaniale>
+                        <definition>Coup porté avec le poing droit. (On dit aussi
+                            DROIT.)</definition>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <subdivition_double_barre>||</subdivition_double_barre>
+                        <marque_domaniale>Math.</marque_domaniale>
+                        <definition>Ligne droite indéfinie.</definition>
+                    </Unite_traitement_de_item_polylexical>
+                </Bloc_des_traitements_de_item_polylexical>
+                <Bloc_locution>
+                    <UT_locution>
+                        <introducteur_locution>●</introducteur_locution>
+                        <locution>À droite</locution>
+                        <separateur>,</separateur>
+                        <definition_locution>à main droite.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>À droite et à gauche</locution>
+                        <separateur>,</separateur>
+                        <definition_locution>de tous côtés.</definition_locution>
+                    </UT_locution>
+                    <UT_locution>
+                        <introducteur_locution>||</introducteur_locution>
+                        <locution>Extrême droite</locution>
+                        <separateur>,</separateur>
+                        <definition_locution>parti politique ou fraction d’une assemblée de
+                            l'opinion la plus conservatrice.</definition_locution>
+                    </UT_locution>
+                </Bloc_locution>
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article class="marque">
+        <!--<!-\\-DROIT-FIL-\\->-->
+        <article compare_avec_PL_1980="modifie">
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DROIT-FIL</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation compare_cate="supprime_categorie_grammaticale">
+                    <categorisation>
+                        <categorie>n.</categorie>
+                        <genre>m.</genre>
+                    </categorisation>
+                </composant_de_categorisation>
+                <composant_morphologique>
+                    <delimitateur_initial>(</delimitateur_initial>
+                    <introducteur_pluriel>pl.</introducteur_pluriel>
+                    <graphie_pluriel>droits-fils</graphie_pluriel>
+                    <delimitateur_final>)</delimitateur_final>
+                </composant_morphologique>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Unite_traitement_de_item_monolexical>
+                    <marque_domaniale marque_domaniale_compare="ajoute_marque_domaniale"
+                        >COUT.</marque_domaniale>
+                    <definition>Sens de la trame ou de la chaîne d’un tissu.</definition>
+                </Unite_traitement_de_item_monolexical>
+            </zone_de_traitement>
+        </article>
+        <!--<!-\\-DROIT-FIL-\\->-->
+        <article compare_avec_PL_1980="modifie">
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DROIT-FIL</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation compare_cate="supprime_categorie_grammaticale">
+                    <categorisation>
+                        <categorie>adj</categorie>
+                    </categorisation>
+                    <coordination>et</coordination>
+                    <categorisation_coordonnee>
+                        <categorie>n.</categorie>
+                        <genre>m.</genre>
+                    </categorisation_coordonnee>
+                </composant_de_categorisation>
+                <composant_morphologique>
+                    <delimitateur_initial>(</delimitateur_initial>
+                    <introducteur_pluriel>pl.</introducteur_pluriel>
+                    <graphie_pluriel>droits-fils</graphie_pluriel>
+                    <delimitateur_final>)</delimitateur_final>
+                </composant_morphologique>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Unite_traitement_de_item_monolexical>
+                    <definition>Se dit, en couture, d’un tissu que l’on utilise dans le sens de la
+                        trame ou de la chaîne.</definition>
+                </Unite_traitement_de_item_monolexical>
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article>
+        <!--        <!-\\-DROITISME-\\->
+-->
+        <article compare_avec_PL_1980="modifie">
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DROITISME</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>n.</categorie>
+                    </categorisation>
+                </composant_de_categorisation>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Unite_traitement_de_item_monolexical>
+                    <marque_domaniale marque_domaniale_compare="modifie">POLIT.</marque_domaniale>
+                    <definition>Attitude des droitiers</definition>
+                    <separateur>;</separateur>
+                    <definition>tendance pour un parti de gauche à adopter des positions de
+                        droite.</definition>
+                </Unite_traitement_de_item_monolexical>
+            </zone_de_traitement>
+        </article>
+        <article>
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DROITISME</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>n.</categorie>
+                    </categorisation>
+                </composant_de_categorisation>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Unite_traitement_de_item_monolexical>
+                    <marque_domaniale marque_domaniale_compare="modifie">Polit.</marque_domaniale>
+                    <definition>Attitude des droitiers.</definition>
+                </Unite_traitement_de_item_monolexical>
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article class="encyclopedique">
+        <article compare_avec_PL_1980="modifie">
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DRUIDE</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>n.</categorie>
+                        <genre>m.</genre>
+                    </categorisation>
+                </composant_de_categorisation>
+                <composant_d_etymologie>
+                    <etymologie>
+                        <delimitateur_initial>(</delimitateur_initial>
+                        <etymon_langue>lat.</etymon_langue>
+                        <etymon>druida</etymon>
+                        <separateur>,</separateur>
+                        <operateur_de_provenance>du</operateur_de_provenance>
+                        <etymon_langue>gaulois</etymon_langue>
+                        <delimitateur_final>)</delimitateur_final>
+                    </etymologie>
+                </composant_d_etymologie>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Unite_traitement_de_item_monolexical>
+                    <definition>Prêtre celte, en Gaule, en Bretagne et en Irlande.</definition>
+                    <information_morphologique>
+                        <delimitateur_initial>(</delimitateur_initial>
+                        <categorie>Le fém.</categorie>
+                        <vedette>druidesse</vedette>
+                        <explication>est rare.</explication>
+                        <delimitateur_final>)</delimitateur_final>
+                    </information_morphologique>
+                </Unite_traitement_de_item_monolexical>
+            </zone_de_traitement>
+        </article>
+        <article>
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DRUIDE</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>n.</categorie>
+                        <genre>m.</genre>
+                    </categorisation>
+                </composant_de_categorisation>
+                <composant_d_etymologie>
+                    <etymologie>
+                        <delimitateur_initial>(</delimitateur_initial>
+                        <etymon_langue>lat.</etymon_langue>
+                        <etymon>druida</etymon>
+                        <separateur>,</separateur>
+                        <introducteur_etymologie>mot</introducteur_etymologie>
+                        <etymon_langue>gaulois</etymon_langue>
+                        <delimitateur_final>)</delimitateur_final>
+                    </etymologie>
+                </composant_d_etymologie>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Unite_traitement_de_item_monolexical>
+                    <definition>Prêtre celte</definition>
+                    <composant_encyclopedie>
+                        <introducteur_encyclopedique>■</introducteur_encyclopedique>
+                        <information_encyclopedie>Les druides, qui formaient une clés sacerdotale,
+                            étaient aussi des docteurs et des devins. Leurs attributions judiciaires
+                            et politique leur permirent d’avoir une influence politique, sociale et
+                            religieuse sur l'ensemble des pays celtes (Gaule, Bretagne, Irlande);
+                            ils furent l'âme de la résistance à l’occupation romaine et à la
+                            christianisation de l'Irlande.</information_encyclopedie>
+                    </composant_encyclopedie>
+                </Unite_traitement_de_item_monolexical>
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article class="nouveau_article">
+        <article compare_avec_PL_1980="ajoute">
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DROMADAIRE</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>n.</categorie>
+                        <genre>m.</genre>
+                    </categorisation>
+                </composant_de_categorisation>
+                <composant_d_etymologie>
+                    <etymologie>
+                        <delimitateur_initial>(</delimitateur_initial>
+                        <etymon_langue>gr.</etymon_langue>
+                        <etymon>dromas</etymon>
+                        <separateur>,</separateur>
+                        <etymon_glose>coureur</etymon_glose>
+                        <delimitateur_final>)</delimitateur_final>
+                    </etymologie>
+                </composant_d_etymologie>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Unite_traitement_de_item_monolexical>
+                    <definition> Mammifère proche du chameau, à une bosse, grand coureur, résistant,
+                        utilisé comme monture et comme bête de somme dans les déserts d'Afrique et
+                        d'Arabie. </definition>
+                    <composant_encyclopedie>
+                        <delimitateur_initial>(</delimitateur_initial>
+                        <information_encyclopedie>Famille des camélidés.</information_encyclopedie>
+                        <delimitateur_final>)</delimitateur_final>
+                    </composant_encyclopedie>
+                    <composant_synonyme>
+                        <introducteur_synonyme>SYN.</introducteur_synonyme>
+                        <separateur> :</separateur>
+                        <synonyme> méhari.</synonyme>
+                    </composant_synonyme>
+                </Unite_traitement_de_item_monolexical>
+
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article class="nouveau_article">
+        <article compare_avec_PL_1980="nouveau-article">
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DROITISTE</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>n.</categorie>
+                    </categorisation>
+                    <coordination>et</coordination>
+                    <categorisation_coordonnee>
+                        <categorie>adj</categorie>
+                    </categorisation_coordonnee>
+                </composant_de_categorisation>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Unite_traitement_de_item_monolexical>
+                    <marque_domaniale>POLIT.</marque_domaniale>
+                    <definition>Droitier.</definition>
+                </Unite_traitement_de_item_monolexical>
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article class="nouveau_article">
+        <article compare_avec_PL_1980="nouveau-article">
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DROITISTE</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>n.</categorie>
+                    </categorisation>
+                    <coordination>et</coordination>
+                    <categorisation_coordonnee>
+                        <categorie>adj</categorie>
+                    </categorisation_coordonnee>
+                </composant_de_categorisation>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Unite_traitement_de_item_monolexical>
+                    <marque_domaniale>POLIT.</marque_domaniale>
+                    <definition>Droitier.</definition>
+                </Unite_traitement_de_item_monolexical>
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article class="nouveau_article">
+        <article compare_avec_PL_1980="nouveau-article">
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DROITISTE</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>n.</categorie>
+                    </categorisation>
+                    <coordination>et</coordination>
+                    <categorisation_coordonnee>
+                        <categorie>adj</categorie>
+                    </categorisation_coordonnee>
+                </composant_de_categorisation>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Unite_traitement_de_item_monolexical>
+                    <marque_domaniale>POLIT.</marque_domaniale>
+                    <definition>Droitier.</definition>
+                </Unite_traitement_de_item_monolexical>
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article class="nouveau_article">
+        <article compare_avec_PL_1980="nouveau-article">
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DRONE</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>n.</categorie>
+                        <genre>m.</genre>
+                    </categorisation>
+                </composant_de_categorisation>
+                <composant_d_etymologie>
+                    <etymologie>
+                        <delimitateur_initial>(</delimitateur_initial>
+                        <etymon_langue>angl.</etymon_langue>
+                        <etymon>drone</etymon>
+                        <delimitateur_final>)</delimitateur_final>
+                    </etymologie>
+                </composant_d_etymologie>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Unite_traitement_de_item_monolexical>
+                    <marque_domaniale>MIL.</marque_domaniale>
+                    <definition>Petit avion télécommandé utilisé pour des tâches diverses(missions
+                        de reconnaissance tactique à altitude, surveillance du champ de bataille et
+                        guerre électronique).</definition>
+                </Unite_traitement_de_item_monolexical>
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article class="nouveau_article">
+        <article compare_avec_PL_1980="nouveau-article">
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DRONE</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>n.</categorie>
+                        <genre>m.</genre>
+                    </categorisation>
+                </composant_de_categorisation>
+                <composant_d_etymologie>
+                    <etymologie>
+                        <delimitateur_initial>(</delimitateur_initial>
+                        <etymon_langue>angl.</etymon_langue>
+                        <etymon>drone</etymon>
+                        <delimitateur_final>)</delimitateur_final>
+                    </etymologie>
+                </composant_d_etymologie>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Unite_traitement_de_item_monolexical>
+                    <marque_domaniale>MIL.</marque_domaniale>
+                    <definition>Petit avion télécommandé utilisé pour des tâches diverses(missions
+                        de reconnaissance tactique à altitude, surveillance du champ de bataille et
+                        guerre électronique).</definition>
+                </Unite_traitement_de_item_monolexical>
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article class="nouveau_article">
+        <article compare_avec_PL_1980="nouveau-article">
+            <ordonnateur_homographe>1.</ordonnateur_homographe>
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DROPER</item_en_adresse>
+                    </unite_d_adressage>
+                    <coordination>ou</coordination>
+                    <unite_d_adressage_coordonnee>
+                        <item_en_adresse>DROPPER</item_en_adresse>
+                    </unite_d_adressage_coordonnee>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>v.</categorie>
+                        <rection>i.</rection>
+                    </categorisation>
+                </composant_de_categorisation>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Unite_traitement_de_item_monolexical>
+                    <niveau_langue>Pop.</niveau_langue>
+                    <definition>Courir s'enfuir rapidement.</definition>
+                </Unite_traitement_de_item_monolexical>
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article class="nouveau_article">
+        <article compare_avec_PL_1980="nouveau-article">
+            <ordonnateur_homographe>2.</ordonnateur_homographe>
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DROPER</item_en_adresse>
+                    </unite_d_adressage>
+                    <coordination>ou</coordination>
+                    <unite_d_adressage_coordonnee>
+                        <item_en_adresse>DROPPER</item_en_adresse>
+                    </unite_d_adressage_coordonnee>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>v.</categorie>
+                        <rection>t.</rection>
+                    </categorisation>
+                </composant_de_categorisation>
+                <composant_d_etymologie>
+                    <etymologie>
+                        <delimitateur_initial>(</delimitateur_initial>
+                        <etymon_langue>angl.</etymon_langue>
+                        <etymon>to drop</etymon>
+                        <delimitateur_final>)</delimitateur_final>
+                    </etymologie>
+                </composant_d_etymologie>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Bloc_des_traitements_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <numero_subdivision>1</numero_subdivision>
+                        <marque_domaniale>MIL.</marque_domaniale>
+                        <definition>Parachuter, larguer du matériel, des hommes). </definition>
+                        <introducteur_marque_diaphasique>&#9674;</introducteur_marque_diaphasique>
+                        <marque_diaphasique>Fam.</marque_diaphasique>
+                        <definition>Déposer rapidement en voiture</definition>
+                        <contextualisation>Je te droppe chez toi.</contextualisation>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <numero_subdivision>2.</numero_subdivision>
+                        <niveau_langue>Pop.</niveau_langue>
+                        <subdivision_nuance_sens compare_avec_PL_1980="nouveau"
+                            >a</subdivision_nuance_sens>
+                        <definition>Abandonner, délaisser (qqn).</definition>
+                        <subdivision_nuance_sens compare_avec_PL_1980="nouveau"
+                            >b.</subdivision_nuance_sens>
+                        <definition>Abandonner (une activité, des études), souvent pour une
+                            existence marginale)</definition>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <numero_subdivision>3</numero_subdivision>
+                        <definition>Droper une balle au golf, la ramasser et la laisser tomber par
+                            dessus son épaule (par ex. lorsqu'on la juge injouab]e)</definition>
+                    </Unite_traitement_de_item_polylexical>
+                </Bloc_des_traitements_de_item_polylexical>
+                <Unite_item_recategorise>
+                    <introducteur_recategorise>&#9648;</introducteur_recategorise>
+                    <composante_recategorise>
+                        <categorisation>
+                            <categorie>v.</categorie>
+                            <rection>i.</rection>
+                        </categorisation>
+                    </composante_recategorise>
+                    <Unite_traitement_de_item_monolexical>
+                        <marque_domaniale>SPORTS</marque_domaniale>
+                        <definition>Tirer un drop, au rugby.</definition>
+                    </Unite_traitement_de_item_monolexical>
+                </Unite_item_recategorise>
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article class="nouveau_article">
+        <article compare_avec_PL_1980="ajoute">
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DROP-GOAL</item_en_adresse>
+                    </unite_d_adressage>
+                    <unite_transcription_phonetique>
+                        <delimitateur_initial>[</delimitateur_initial>
+                        <transcription_phonetique>dropgol</transcription_phonetique>
+                        <delimitateur_final>]</delimitateur_final>
+                    </unite_transcription_phonetique>
+                    <coordination>ou</coordination>
+                    <unite_d_adressage_coordonnee>
+                        <item_en_adresse>DROP</item_en_adresse>
+                    </unite_d_adressage_coordonnee>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>n.</categorie>
+                        <genre>m.</genre>
+                    </categorisation>
+                </composant_de_categorisation>
+                <composant_d_etymologie compare_etymologie="ajoute_etymologie">
+                    <etymologie>
+                        <delimitateur_initial>(</delimitateur_initial>
+                        <introducteur_etymologie>mot</introducteur_etymologie>
+                        <etymon_langue>angl.</etymon_langue>
+                        <delimitateur_final>)</delimitateur_final>
+                    </etymologie>
+                </composant_d_etymologie>
+                <composant_morphologique>
+                    <delimitateur_initial>(</delimitateur_initial>
+                    <introducteur_pluriel>pl.</introducteur_pluriel>
+                    <graphie_pluriel>drop-goals</graphie_pluriel>
+                    <delimitateur_final>)</delimitateur_final>
+                </composant_morphologique>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Unite_traitement_de_item_monolexical>
+                    <definition> Au rugby, coup de pied en demi-volée qui envoie la balle par-dessus
+                        la barre du camp adverse.</definition>
+                </Unite_traitement_de_item_monolexical>
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article class="nouveau_article">
+        <article compare_avec_PL_1980="nouveau-article">
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DROPPAGE</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>n.</categorie>
+                        <genre>m.</genre>
+                    </categorisation>
+                </composant_de_categorisation>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Unite_traitement_de_item_monolexical>
+                    <marque_domaniale>MIL.</marque_domaniale>
+                    <definition>Parachutage de matériel ou de soldats.</definition>
+                    <contextualisation>Zone de droppage.</contextualisation>
+                </Unite_traitement_de_item_monolexical>
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article class="nouveau_article">
+        <article compare_avec_PL_1980="nouveau-article">
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DROPPER</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>v.</categorie>
+                        <rection>i.</rection>
+                    </categorisation>
+                    <coordination>et</coordination>
+                    <categorisation_coordonnee>
+                        <rection>t.</rection>
+                    </categorisation_coordonnee>
+                </composant_de_categorisation>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <UT_renvoi>
+                    <introducteur_revoi>&#10142;</introducteur_revoi>
+                    <mot_renvoi>droper</mot_renvoi>
+                </UT_renvoi>
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article class="nouveau_article">
+        <article compare_avec_PL_1980="nouveau-article">
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DRUMMER</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_transcription_phonetique>
+                    <unite_transcription_phonetique>
+                        <delimitateur_initial>[</delimitateur_initial>
+                        <transcription_phonetique>drœmoær</transcription_phonetique>
+                        <delimitateur_final>]</delimitateur_final>
+                    </unite_transcription_phonetique>
+                </composant_transcription_phonetique>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>n.</categorie>
+                        <genre>m.</genre>
+                    </categorisation>
+                </composant_de_categorisation>
+                <composant_d_etymologie>
+                    <etymologie>
+                        <delimitateur_initial>(</delimitateur_initial>
+                        <introducteur_etymologie>mot.</introducteur_etymologie>
+                        <etymon_langue>angl.</etymon_langue>
+                        <delimitateur_final>)</delimitateur_final>
+                    </etymologie>
+                </composant_d_etymologie>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Unite_traitement_de_item_monolexical>
+                    <marque_domaniale>MUS.</marque_domaniale>
+                    <definition>Batteur, dans un orchestre de jazz, de rock, de
+                        variétés.</definition>
+                </Unite_traitement_de_item_monolexical>
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article class="nouveau_article">
+        <article compare_avec_PL_1980="nouveau-article">
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DRUMS</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_transcription_phonetique>
+                    <unite_transcription_phonetique>
+                        <delimitateur_initial>[</delimitateur_initial>
+                        <transcription_phonetique>dræms</transcription_phonetique>
+                        <delimitateur_final>]</delimitateur_final>
+                    </unite_transcription_phonetique>
+                </composant_transcription_phonetique>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>n.</categorie>
+                        <genre>m.</genre>
+                    </categorisation>
+                </composant_de_categorisation>
+                <composant_morphologique>
+                    <item_est_une_forme_pluriel>pl.</item_est_une_forme_pluriel>
+                </composant_morphologique>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Unite_traitement_de_item_monolexical>
+                    <marque_domaniale>MUS.</marque_domaniale>
+                    <definition>Batterie, dans un orchestre de jazz, de rock, de
+                        variétés.</definition>
+                </Unite_traitement_de_item_monolexical>
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article class="nouveau_article">
+        <article compare_avec_PL_1980="nouveau-article">
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DRUZE</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>adj.</categorie>
+                    </categorisation>
+                </composant_de_categorisation>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <relation_morphologique>
+                    <morphologie_relatif>Relatif aux Druzes.</morphologie_relatif>
+                </relation_morphologique>
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article class="nouveau_article">
+        <article compare_avec_PL_1980="nouveau-article">
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DUDIT</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>adj.</categorie>
+                    </categorisation>
+                </composant_de_categorisation>
+                <composant_morphologique>
+                    <delimitateur_initial>(</delimitateur_initial>
+                    <introducteur_pluriel>pl.</introducteur_pluriel>
+                    <graphie_pluriel>desdits</graphie_pluriel>
+                    <delimitateur_final>)</delimitateur_final>
+                </composant_morphologique>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <UT_renvoi>
+                    <introducteur_revoi>&#10142;</introducteur_revoi>
+                    <mot_renvoi>dit</mot_renvoi>
+                </UT_renvoi>
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+    <comprare_article class="marque">
+        <article>
+            <ordonnateur_homographe compare_avec_PL_1980="ajoute_numero">1.</ordonnateur_homographe>
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DUEL</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>n</categorie>
+                        <genre>m.</genre>
+                    </categorisation>
+                </composant_de_categorisation>
+                <composant_d_etymologie>
+                    <etymologie>
+                        <delimitateur_initial>(</delimitateur_initial>
+                        <etymon_langue>lat.</etymon_langue>
+                        <etymon>duellum</etymon>
+                        <separateur>,</separateur>
+                        <operateur_de_provenance>de</operateur_de_provenance>
+                        <etymon>bellum</etymon>
+                        <separateur>,</separateur>
+                        <etymon_glose>guerre</etymon_glose>
+                        <delimitateur_final>)</delimitateur_final>
+                    </etymologie>
+                </composant_d_etymologie>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Bloc_des_traitements_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <subdivision_nuance_sens>1.</subdivision_nuance_sens>
+                        <definition>Combat singulier entre deux personnes, dont l’une exige de l'autre la réparation par les armes d'une offense, d’un affront.</definition>
+                        <contextualisation>Se battre en duel</contextualisation>
+                        <UT_locution>
+                            <introducteur_locution>▱</introducteur_locution>
+                            <marque_domaniale>HIST.</marque_domaniale>
+                            <locution>Duel judiciaire</locution>
+                            <separateur>:</separateur>
+                            <definition_locution>combat entre un accusateur.et un accusé, admis au Moyen Âge comme preuve juridique.</definition_locution>
+                        </UT_locution>
+                    </Unite_traitement_de_item_polylexical>
+                    <Unite_traitement_de_item_polylexical>
+                        <subdivision_nuance_sens>2.</subdivision_nuance_sens>
+                        <marque>Fig.</marque>
+                        <definition>Compétition, lutte serrée entre deux individus, deux groupes antagonistes.</definition>
+                        <contextualisation>Duel oratoire.</contextualisation></Unite_traitement_de_item_polylexical>
+                </Bloc_des_traitements_de_item_polylexical>
+            </zone_de_traitement>
+        </article>
+        <article>
+            <ordonnateur_homographe compare_avec_PL_1980="ajoute_numero">1.</ordonnateur_homographe>
+            <zone_d_identification_etymologique>
+                <composant_d_adressage>
+                    <unite_d_adressage>
+                        <item_en_adresse>DUEL</item_en_adresse>
+                    </unite_d_adressage>
+                </composant_d_adressage>
+                <composant_de_categorisation>
+                    <categorisation>
+                        <categorie>n</categorie>
+                        <genre>m.</genre>
+                    </categorisation>
+                </composant_de_categorisation>
+                <composant_d_etymologie>
+                    <etymologie>
+                        <delimitateur_initial>(</delimitateur_initial>
+                        <etymon_langue>lat.</etymon_langue>
+                        <etymon>duellum</etymon>
+                        <separateur>,</separateur>
+                        <operateur_de_provenance>de</operateur_de_provenance>
+                        <etymon>bellum</etymon>
+                        <separateur>,</separateur>
+                        <etymon_glose>guerre</etymon_glose>
+                        <delimitateur_final>)</delimitateur_final>
+                    </etymologie>
+                </composant_d_etymologie>
+            </zone_d_identification_etymologique>
+            <zone_de_traitement>
+                <Unite_traitement_de_item_monolexical>
+                        <definition>Combat entre deux adversaires, dont l’un a demandé à l’autre réparation d’une offense par les armes.</definition> 
+                         <UT_locution>
+                             <introducteur_locution>●</introducteur_locution>
+                             <locution>Duel judiciaire</locution>
+                             <separateur>,</separateur>
+                             <definition_locution>au haut Moyen Âge, combat entre un accusateur et un accusé, admis comme preuve juridique.</definition_locution>
+                         </UT_locution>
+                </Unite_traitement_de_item_monolexical>                  
+            </zone_de_traitement>
+        </article>
+    </comprare_article>
+   
+  <comprare_article class="nouveau_article"> 
+      <article compare_avec_PL_1980="nouveau-article">
+        <zone_d_identification_etymologique>
+            <composant_d_adressage>
+                <unite_d_adressage>
+                    <item_en_adresse>DUEL</item_en_adresse>
+                    <separateur>,</separateur>
+                    <finale_flexionnelle genre="féminin" nombre="singulier">ELLE</finale_flexionnelle>
+                </unite_d_adressage>
+            </composant_d_adressage>
+            <composant_de_categorisation>
+                <categorisation>
+                    <categorie>adj.</categorie>
+                </categorisation>
+            </composant_de_categorisation>
+        </zone_d_identification_etymologique>
+        <zone_de_traitement>
+            <relation_morphologique>
+                <marque_domaniale>Didact.</marque_domaniale>
+                <morphologie_relatif>Relatif à la dualité.</morphologie_relatif>
+            </relation_morphologique>
+        </zone_de_traitement>
+    </article></comprare_article>
+   <comprare_article class="nouveau_article"> 
+       <article compare_avec_PL_1980="nouveau-article">
+        <zone_d_identification_etymologique>
+            <composant_d_adressage>
+                <unite_d_adressage>
+                    <item_en_adresse>DUGAZON</item_en_adresse>
+                </unite_d_adressage>
+            </composant_d_adressage>
+            <composant_de_categorisation>
+                <categorisation>
+                    <categorie>n.</categorie>
+                    <genre>f.</genre>
+                </categorisation>
+            </composant_de_categorisation>
+            <composant_d_etymologie>
+                <etymologie>
+                    <delimitateur_initial>(</delimitateur_initial>
+                    <operateur_de_provenance>du</operateur_de_provenance>
+                    <etymon_categorie>n.</etymon_categorie>
+                    <etymon_glose>d’une cantatrice célèbre</etymon_glose>
+                    <delimitateur_final>)</delimitateur_final>
+                </etymologie>
+            </composant_d_etymologie>
+        </zone_d_identification_etymologique>
+        <zone_de_traitement>
+            <Unite_traitement_de_item_monolexical>
+                <marque_diachronique>Vx.</marque_diachronique>
+                <definition>Rôle d’ingénue amoureuse ou de soubrette dans les
+                    opéras-comiques.</definition>
+            </Unite_traitement_de_item_monolexical>
+        </zone_de_traitement>
+    </article></comprare_article>
+  <comprare_article class="nouveau_article">  
+      <article compare_avec_PL_1980="nouveau-article">
+        <zone_d_identification_etymologique>
+            <composant_d_adressage>
+                <unite_d_adressage>
+                    <item_en_adresse>DUIT</item_en_adresse>
+                </unite_d_adressage>
+            </composant_d_adressage>
+            <composant_transcription_phonetique>
+                <unite_transcription_phonetique>
+                    <delimitateur_initial>[</delimitateur_initial>
+                    <transcription_phonetique>dui</transcription_phonetique>
+                    <delimitateur_final>]</delimitateur_final>
+                </unite_transcription_phonetique> 
+            </composant_transcription_phonetique>
+            <composant_de_categorisation>
+                <categorisation>
+                    <categorie>n.</categorie>
+                    <genre>m.</genre>
+                </categorisation>
+            </composant_de_categorisation>
+        </zone_d_identification_etymologique>
+        <zone_de_traitement>
+            <Unite_traitement_de_item_monolexical>
+                <marque_domaniale>PÊCHE.</marque_domaniale>
+                <definition>Chaussée peu élevée,formée de pieux et de cailloux, établie au
+                    traversd'un fleuve, pour arrêter le poisson au reflux.</definition>
+            </Unite_traitement_de_item_monolexical>
+        </zone_de_traitement>
+    </article></comprare_article>
+   <comprare_article class="nouveau_article">
+       <article compare_avec_PL_1980="nouveau-article">
+        <zone_d_identification_etymologique>
+            <composant_d_adressage>
+                <unite_d_adressage>
+                    <item_en_adresse>DUMPER</item_en_adresse>
+                </unite_d_adressage>
+            </composant_d_adressage>
+            <composant_transcription_phonetique>
+                <unite_transcription_phonetique>
+                    <delimitateur_initial>[</delimitateur_initial>
+                    <transcription_phonetique>dœæœmpœær</transcription_phonetique>
+                    <delimitateur_final>]</delimitateur_final>
+                </unite_transcription_phonetique>
+            </composant_transcription_phonetique>
+            <composant_de_categorisation>
+                <categorisation>
+                    <categorie>n.</categorie>
+                    <genre>m.</genre>
+                </categorisation>
+            </composant_de_categorisation>
+            <composant_d_etymologie>
+                <etymologie>
+                    <delimitateur_initial>(</delimitateur_initial>
+                    <operateur_de_provenance>de</operateur_de_provenance>
+                    <etymon_langue>l'angl.</etymon_langue>
+                    <etymon>to dump</etymon>
+                    <etymon_glose>décharger</etymon_glose>
+                    <delimitateur_final>)</delimitateur_final>
+                </etymologie>
+            </composant_d_etymologie>
+        </zone_d_identification_etymologique>
+        <zone_de_traitement>
+            <Unite_traitement_de_item_monolexical>
+                <marque_semantique>TR. PUBL.</marque_semantique>
+                <definition>Tombereau automoteur, comprenant une benne basculante montée à l'avant d’un châssis.</definition>
+                <composant_de_renvoi>
+                    <introducteur_renvoi> Recomm. off. :</introducteur_renvoi>
+                    <renvoi> tombereau.</renvoi></composant_de_renvoi>
+            </Unite_traitement_de_item_monolexical>
+        </zone_de_traitement>
+    </article></comprare_article>
+  <comprare_article class="nouveau_article">  
+      <article compare_avec_PL_1980="nouveau-article">
+        <zone_d_identification_etymologique>
+            <composant_d_adressage>
+                <unite_d_adressage>
+                    <item_en_adresse>DUODÉCIMAN</item_en_adresse>
+                    <separateur>,</separateur>
+                    <finale_flexionnelle genre="féminin" nombre="singulier">E</finale_flexionnelle>
+                </unite_d_adressage>
+            </composant_d_adressage>
+            <composant_de_categorisation>
+                <categorisation>
+                    <categorie>adj.</categorie>
+                </categorisation>
+            </composant_de_categorisation>
+            <composant_d_etymologie>
+                <etymologie>
+                    <delimitateur_initial>(</delimitateur_initial>
+                    <operateur_de_provenance>du</operateur_de_provenance>
+                    <etymon_langue>latin.</etymon_langue>
+                    <etymon>duodecimus</etymon>
+                    <separateur>,</separateur>
+                    <etymon_glose>douzième</etymon_glose>
+                    <delimitateur_final>)</delimitateur_final>
+                </etymologie>
+            </composant_d_etymologie>
+        </zone_d_identification_etymologique>
+        <zone_de_traitement>
+            <Unite_traitement_de_item_monolexical>
+                <definition>Se dit du mouvement religieux chiite qui identifie l'imam caché au
+                    douzième successeur de ‘Ali à la tête de la communauté.</definition>
+                <composant_encyclopedie>
+                    <delimitateur_initial>(</delimitateur_initial>
+                    <information_encyclopedie>Le chiisme duodécimain est la religion nationale del'Iran.</information_encyclopedie>
+                    <delimitateur_final>)</delimitateur_final>
+                </composant_encyclopedie>
+            </Unite_traitement_de_item_monolexical>
+        </zone_de_traitement>
+    </article></comprare_article>
+   <!-- <article compare_avec_PL_1980="modifie">
+        <zone_d_identification_etymologique>
+            <composant_d_adressage>
+                <unite_d_adressage>
+                    <item_en_adresse>DROSERA</item_en_adresse>
+                </unite_d_adressage>
+            </composant_d_adressage>
+            <composant_transcription_phonetique>
+                <unite_transcription_phonetique>
+                    <delimitateur_initial>[</delimitateur_initial>
+                    <transcription_phonetique>drozera</transcription_phonetique>
+                    <delimitateur_final>]</delimitateur_final>
+                </unite_transcription_phonetique>     
+            </composant_transcription_phonetique>
+            <composant_de_categorisation>
+                <categorisation>
+                    <categorie>n.</categorie>
+                    <genre>m.</genre>
+                </categorisation>
+            </composant_de_categorisation>
+            <composant_d_etymologie>
+                <etymologie>
+                    <delimitateur_initial>(</delimitateur_initial>
+                    <etymon_langue>gr.</etymon_langue>
+                    <etymon>droseros</etymon>
+                    <separateur>,</separateur>
+                    <etymon_glose>huimide de rosée</etymon_glose>
+                    <delimitateur_final>)</delimitateur_final>
+                </etymologie>
+            </composant_d_etymologie>
+        </zone_d_identification_etymologique>
+        <zone_de_traitement>
+            <Unite_traitement_de_item_monolexical>
+                <definition></definition>
+            </Unite_traitement_de_item_monolexical>
+        </zone_de_traitement>
+    </article>-\->-->
+</PLimprimé>
